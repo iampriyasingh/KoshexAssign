@@ -1,0 +1,175 @@
+/* .Rectangle {
+    width: 511px;
+    height: 260px;
+    margin: 30px 10px 23px 0;
+    padding: 25px 1px 21px 0;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle1 {
+    width: 224px;
+    height: 78px;
+    margin: 15px 16px 11px 26px;
+    padding: 13px 10px 8px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle2 {
+    width: 224px;
+    height: 78px;
+    margin: 15px 20px 11px 16px;
+    padding: 13px 13px 20px 9px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle3 {
+    width: 224px;
+    height: 78px;
+    margin: 11px 16px 0 26px;
+    padding: 12px 11px 21px 10px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle4 {
+    width: 224px;
+    height: 78px;
+    margin: 11px 20px 0 16px;
+    padding: 12px 13px 21px 10px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Line4 {
+    width: 510px;
+    height: 1px;
+    margin: 14px 0 15px;
+    background-color: #e5e6e9;
+  }
+  .imgrectangle{
+    width: 30px;
+    height: 30px;
+    margin: 0 8px 0 0;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #e9eeff;
+  }
+  .mfund {
+    width: 75px;
+    height: 17px;
+    margin: 6px 51px 7px 8px;
+    font-family: SFProDisplay;
+    font-size: 11px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #343756;
+  }
+  .Insurance {
+    width: 54px;
+    height: 16px;
+    margin: 7px 44px 13px 8px;
+    font-family: SFProDisplay;
+    font-size: 11px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #343756;
+  }
+  .Bonds {
+    width: 35px;
+    height: 16px;
+    margin: 7px 62px 13px 8px;
+    font-family: SFProDisplay;
+    font-size: 11px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #343756;
+  }
+  .Digital {
+    width: 64px;
+    height: 17px;
+    margin: 6px 33px 13px 8px;
+    font-family: SFProDisplay;
+    font-size: 11px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #343756;
+  } */
+
+  .Rectangle26 {
+    width: 511px;
+    height: 260px;
+    margin: 30px 10px 23px 0;
+    padding: 25px 1px 21px 0;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Line45 {
+    width: 510px;
+    height: 1px;
+    margin: 14px 0 15px;
+    background-color: #e5e6e9;
+  }
+  .Rectangle167 {
+    width: 224px;
+    height: 78px;
+    margin: 15px 16px 11px 26px;
+    padding: 13px 10px 8px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle153 {
+    width: 224px;
+    height: 78px;
+    margin: 15px 20px 11px 16px;
+    padding: 13px 13px 20px 9px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle152 {
+    width: 224px;
+    height: 78px;
+    margin: 11px 16px 0 26px;
+    padding: 12px 11px 21px 10px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }
+  .Rectangle154 {
+    width: 224px;
+    height: 78px;
+    margin: 11px 20px 0 16px;
+    padding: 12px 13px 21px 10px;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.06);
+    border: solid 1px #e7eaf3;
+    background-color: #fff;
+  }

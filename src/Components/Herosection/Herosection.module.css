@@ -1,0 +1,168 @@
+/* .Rectangle {
+    width: 745px;
+    height: 200px;
+    flex-grow: 0;
+    margin: 0 25px 30px 0;
+    padding: 5px 0 0;
+    border-radius: 10px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.15);
+    background-color: #f8fbff;
+  }
+  .para {
+    width: 369px;
+    height: 16px;
+    flex-grow: 0;
+    margin: 64px 61px 19px 95.9px;
+    font-family: SFProDisplay;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.89;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #636f86;
+  }
+  .Group {
+    width: 125px;
+    height: 129.5px;
+    flex-grow: 0;
+    
+  }
+  .Group1 {
+    width: 94.1px;
+    height: 96px;
+    flex-grow: 0;
+    margin: 19px 95.9px 0 0;
+    float: right;
+ 
+  }
+  .Frame-8 {
+    width: 209px;
+    height: 64px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 32px 141px 19px 175.9px;
+    padding: 24px 60px;
+    border-radius: 7px;
+    background-color: #e8eeff;
+  }
+  .Continue {
+    width: 89px;
+    height: 16px;
+    flex-grow: 0;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #839eff;
+  }
+  .Vector {
+    width: 94.1px;
+    height: 42px;
+    flex-grow: 0;
+    background-color: #7f81ff;
+  }
+  
+  .Vector1 {
+    width: 107px;
+    height: 102px;
+    flex-grow: 0;
+    transform: rotate(-180deg);
+    background-color: #7f81ff;
+  }
+  .Vector {
+    width: 125px;
+    height: 129.5px;
+    flex-grow: 0;
+    opacity: 0.1;
+    background-color: #ffb147;
+  } */
+  .Rectangle {
+    width: 745px;
+    height: 200px;
+    flex-grow: 0;
+    margin: 0 25px 30px 0;
+    padding: 5px 0 0;
+    border-radius: 10px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.15);
+    background-color: #f8fbff;
+  }
+  .para {
+    width: 369px;
+    height: 16px;
+    flex-grow: 0;
+    margin: 64px 61px 19px 95.9px;
+    font-family: SFProDisplay;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.89;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #636f86;
+  }
+  .Frame-8 {
+    width: 209px;
+    height: 64px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 32px 141px 19px 175.9px;
+    padding: 24px 60px;
+    border-radius: 7px;
+    background-color: #e8eeff;
+  }
+  .Group {
+    width: 94.1px;
+    height: 96px;
+    flex-grow: 0;
+    margin: 19px 95.9px 0 0;
+  }
+  .Group1 {
+    width: 94.1px;
+    height: 96px;
+    flex-grow: 0;
+    margin: 19px 95.9px 0 0;
+    float: right;
+ 
+  }
+  .Continue {
+    width: 89px;
+    height: 16px;
+    flex-grow: 0;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #839eff;
+  }
+  .Rectangle26 {
+    width: 1043px;
+    height: 1266px;
+    margin: 15px 6px 17px 1px;
+    padding: 20px 14px 41px 29px;
+    border-radius: 10px;
+    -webkit-backdrop-filter: blur(25px);
+    backdrop-filter: blur(25px);
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.15);
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+ 
+ 

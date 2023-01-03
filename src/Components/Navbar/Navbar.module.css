@@ -1,0 +1,149 @@
+/* .Rectangle{
+    height: 15%;   
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-y: hidden;
+    padding-top: 20px;
+    background-color: red;
+    display: grid;
+    padding-block: 1.5rem;
+    position: relative;
+    z-index: 111111111;
+}
+.Rectangle1{
+    height: 30%;   
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-y: hidden;
+    padding-top: 40px;
+    background-color: rgb(115, 0, 255); 
+    display:  grid;
+   
+} */
+
+/* .search_icon{
+    cursor: pointer;
+    font-size: 1.4rem;
+}
+.navbar{
+    width: 100%;
+    padding-block: 1.5rem;
+    position: relative;
+    z-index: 111111111;
+}
+.navbar_container{
+    width: 80%;
+    margin:  0 auto;
+    display:  grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.navbar_container_left{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items:  center;
+}
+.navbar_container_right_notify{
+    position: relative;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: 1fr 1fr .5fr 1fr .3fr;
+    gap: 1rem;
+    align-items: center;
+}
+
+.notify{
+    cursor: pointer;
+    font-size: 2rem;
+}
+.navbar_container_right_profile_box{
+    position: relative;
+    cursor: pointer;
+}
+
+.navbar_container_right_profile{
+    border-radius: 50%;
+} */
+
+/* .Line {
+    width: 1049px;
+    height: 1px;
+    margin: 14px 1px 0 0;
+    background-color: #e5e6e9;
+  }
+  .Line2 {
+    width: 285px;
+    height: 16px;
+    margin: 74px 504px 26px 19px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #121212;
+  }
+  .Ellipse {
+    width: 40px;
+    height: 40px;
+    flex-grow: 0;
+    margin: 57px 30px 19px 504px;
+    padding: 8px;
+    background-color: #e8eeff;
+  }
+  .screen {
+    width: 51px;
+    height: 51px;
+    margin: 51px 12px 14px 30px;
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    padding: 1.5rem;
+    float: right;
+  }
+  .bell {
+    width: 24px;
+    height: 24px;
+    flex-grow: 0;
+    object-fit: contain;
+  
+  }
+  .magnifier{
+    width: 24px;
+  height: 24px;
+  object-fit: contain;
+ 
+  } */
+  
+  .line {
+    width: 285px;
+    height: 16px;
+    margin: 74px 504px 26px 19px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #121212;
+  }
+  .Ellipse {
+    width: 40px;
+    height: 40px;
+    flex-grow: 0;
+    margin: 57px 30px 19px 504px;
+    padding: 8px;
+    background-color: #e8eeff;
+    display:flex;
+    flex-direction: row;
+  }
